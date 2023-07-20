@@ -1,6 +1,7 @@
 import streamlit
 streamlit.title("WELCOME TO CAPGEMINI")
-streamlit.header("BREAKFAST MENU")
-streamlit.text("Omega 3 &blueberry oatmel")
-streamlit.text("Hard-boiled free-range egg")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
